@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parsakhatibzadeh.
+- 👋 Hi, I’m EM-ED
 - 👀 I’m interested in Software Development and AI.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me  Email: Parsa_Khatibzadeh@outlook.com
